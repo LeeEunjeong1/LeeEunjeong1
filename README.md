@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/a_p_p_l_e_t/)](https://blog.naver.com/a_p_p_l_e_t)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbig1019@gmail.com)](mailto:tbig1019@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=
