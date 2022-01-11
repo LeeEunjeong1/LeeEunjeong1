@@ -17,7 +17,7 @@ https://simpleicons.org/
 -->
  
 
-# 💪Skills
+## 💪Skills
 ### Platforms & Languages
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -37,7 +37,7 @@ https://simpleicons.org/
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=Trello&logoColor=white)
 
-# :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/a_p_p_l_e_t/)](https://blog.naver.com/a_p_p_l_e_t)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbig1019@gmail.com)](mailto:tbig1019@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://utopian-galaxy-bdd.notion.site/Developer-91c351ccc7964957be9b75372c2d3ef5)](https://utopian-galaxy-bdd.notion.site/Developer-91c351ccc7964957be9b75372c2d3ef5)
+## :mailbox_with_mail: Contacts
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbig1019@gmail.com)](mailto:tbig1019@gmail.com)
+- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://utopian-galaxy-bdd.notion.site/Developer-91c351ccc7964957be9b75372c2d3ef5)](https://utopian-galaxy-bdd.notion.site/Developer-91c351ccc7964957be9b75372c2d3ef5) 
+- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-339933?style=flat-square&logo=Naver&link=https://blog.naver.com/a_p_p_l_e_t/)](https://blog.naver.com/a_p_p_l_e_t) 
