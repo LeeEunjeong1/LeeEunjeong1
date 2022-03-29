@@ -40,4 +40,4 @@ https://simpleicons.org/
 ## :mailbox_with_mail: Contacts
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbig1019@gmail.com)](mailto:tbig1019@gmail.com)
 - [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://utopian-galaxy-bdd.notion.site/Developer-91c351ccc7964957be9b75372c2d3ef5)](https://utopian-galaxy-bdd.notion.site/Developer-91c351ccc7964957be9b75372c2d3ef5) 
-- https://dev-ej2.tistory.com
+- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TechBlog&postId={https://dev-ej2.tistory.com/}&theme=default)](https://dev-ej2.tistory.com/)
