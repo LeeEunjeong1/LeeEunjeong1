@@ -20,11 +20,9 @@ Kotlin과 Jetpack Compose를 중심으로
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
 **Architecture**
 
-![MVI](https://img.shields.io/badge/MVI-5C6BC0?style=for-the-badge)
 ![Multi Module](https://img.shields.io/badge/Multi--Module-009688?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
